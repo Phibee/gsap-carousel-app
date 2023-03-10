@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="675.788" height="391.486" viewBox="0 0 675.788 391.486">
+  <defs>
+    <linearGradient id="a" x1="0.396" y1="1.035" x2="0.579" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eae7f0" stop-opacity="0.102" />
+      <stop offset="1" stop-color="#747180" stop-opacity="0.09" />
+    </linearGradient>
+    <pattern id="b" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 128 128">
+      <image width="128" height="128" xlink:href="data:image/jpeg;base64,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" />
+    </pattern>
+    <filter id="c" x="494" y="123.175" width="34" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="3" result="d" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="d" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <linearGradient id="e" x1="0.5" x2="0.5" y2="0.872" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d2c9f5" stop-opacity="0.384" />
+      <stop offset="1" stop-color="#b4bcf8" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="f" x1="0.5" x2="0.5" y2="0.675" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72a0d6" />
+      <stop offset="1" stop-color="#5e396b" stop-opacity="0" />
+    </linearGradient>
+    <filter id="h" x="102" y="254.175" width="101" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="3" result="i" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="i" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter id="j" x="385" y="166.175" width="218" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="3" result="k" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="k" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <clipPath id="l">
+      <rect width="53" height="37" rx="10" transform="translate(0.333 -0.031)" fill="#fff" />
+    </clipPath>
+  </defs>
+  <g transform="translate(-119 -296.825)">
+    <path className="slide1_path1" d="M7.2-2.5c2.3,7.2,4.4,14.3.1,18.9C3.1,21-7.6,23-13.1,18.9-18.5,14.7-18.8,4.2-15.8-4S-6.4-18.2-2-17.6C2.5-17,4.9-9.7,7.2-2.5Z" transform="translate(265.896 354.591) rotate(40)" fill="#f19976" />
+    <path className="slide1_path2" d="M7.2-2.5c2.3,7.2,4.4,14.3.1,18.9C3.1,21-7.6,23-13.1,18.9-18.5,14.7-18.8,4.2-15.8-4S-6.4-18.2-2-17.6C2.5-17,4.9-9.7,7.2-2.5Z" transform="matrix(-0.53, 0.848, -0.848, -0.53, 740.549, 670.66)" fill="#73d199" />
+    <path className="slide1_path3" d="M17.7,2.5c0,13.4-8.8,29.4-16.6,29.4s-14.5-16-14.5-29.4S-6.7-21.7,1.1-21.7,17.7-10.9,17.7,2.5Z" transform="matrix(-0.995, 0.105, -0.105, -0.995, 494.221, 329.951)" fill="#72d096" />
+    <path className="slide1_path4" d="M18.635-5.055C18.635,8.345,8.9,31.9,1.1,31.9S-15.019,7.331-15.019-6.069-6.7-21.7,1.1-21.7,18.635-18.455,18.635-5.055Z" transform="translate(716.211 410.618) rotate(120)" fill="#face6e" />
+    <path className="slide1_path5" d="M18.635-5.055C18.635,8.345,8.9,31.9,1.1,31.9S-15.019,7.331-15.019-6.069-6.7-21.7,1.1-21.7,18.635-18.455,18.635-5.055Z" transform="translate(769.452 528.724) rotate(77)" fill="#e56580" />
+    <circle className="slide1_path6" cx="14" cy="14" r="14" transform="translate(119 660)" fill="#e7657e" />
+    <g className="slide1_info2">
+      <g transform="translate(284.824 421)">
+        <rect width="369" height="239" rx="12" transform="translate(0.176)" fill="#fff" />
+        <ellipse cx="4" cy="4.5" rx="4" ry="4.5" transform="translate(10.176 8)" fill="#e7657e" />
+        <ellipse cx="4" cy="4.5" rx="4" ry="4.5" transform="translate(23.176 8)" fill="#face6e" />
+        <ellipse cx="4" cy="4.5" rx="4" ry="4.5" transform="translate(35.176 8)" fill="#73d199" />
+        <line x2="365.152" transform="translate(2.069 24.309)" fill="none" stroke="#f4f4f4" stroke-width="1" />
+      </g>
+      <rect width="62" height="179" rx="4" transform="translate(297 460)" fill="url(#a)" />
+      <g transform="matrix(1, 0, 0, 1, 119, 296.83)" filter="url(#c)">
+        <g transform="translate(503 129.17)" stroke="#fff" stroke-width="1" fill="url(#b)">
+          <circle cx="8" cy="8" r="8" stroke="none" />
+          <circle cx="8" cy="8" r="7.5" fill="none" />
+        </g>
+      </g>
+      <g transform="translate(375.854 465.48)">
+        <rect width="45" height="37" rx="7" transform="translate(0.146 -0.48)" fill="rgba(234,231,240,0.38)" />
+        <rect width="44" height="37" rx="7" transform="translate(53.146 -0.48)" fill="rgba(234,231,240,0.38)" />
+        <rect width="46" height="37" rx="7" transform="translate(104.146 -0.48)" fill="rgba(234,231,240,0.38)" />
+        <rect width="45" height="37" rx="7" transform="translate(157.146 -0.48)" fill="rgba(234,231,240,0.38)" />
+        <rect width="45" height="37" rx="7" transform="translate(209.146 -0.48)" fill="rgba(234,231,240,0.38)" />
+      </g>
+      <rect width="43" height="7" rx="3.5" transform="translate(378 511)" fill="rgba(234,231,240,0.38)" />
+      <rect width="255" height="101" rx="7" transform="translate(375 532)" fill="url(#e)" />
+      <rect width="43" height="7" rx="3.5" transform="translate(431 511)" fill="rgba(234,231,240,0.38)" />
+      <rect width="44" height="7" rx="3.5" transform="translate(483 511)" fill="rgba(234,231,240,0.38)" />
+      <rect width="43" height="7" rx="3.5" transform="translate(587 511)" fill="rgba(234,231,240,0.38)" />
+      <rect width="44" height="7" rx="3.5" transform="translate(536 511)" fill="rgba(234,231,240,0.38)" />
+      <path d="M390,582.281s9.791,1.517,14.749,6.875c5.273,5.7,6.43,15.4,16.615,16.057,18.967,1.215,22.039-29.228,37.946-30.8s12.608,26.856,30.233,27.426,13.4-18.826,25.092-19.556,14.672,19.556,30.348,19.556,25.6-23.674,45.5-27.426S635.4,589.157,635.4,589.157h8.926v59.968L390,644.484Z" transform="translate(-14.516 -10.829)" opacity="0.472" fill="url(#f)" />
+      <path d="M390,582.281s9.791,1.517,14.749,6.875c5.273,5.7,6.43,15.4,16.615,16.057,18.967,1.215,22.039-29.228,37.946-30.8s12.608,26.856,30.233,27.426,13.4-18.826,25.092-19.556,14.672,19.556,30.348,19.556,25.6-23.674,45.5-27.426S635.4,589.157,635.4,589.157h8.926" transform="translate(-14.146 -11.287)" fill="none" stroke="#2f5c91" stroke-linejoin="round" stroke-width="2" />
+      <g transform="translate(531 588)" fill="#fff" stroke="#72a0d6" stroke-width="1">
+        <circle cx="2.5" cy="2.5" r="2.5" stroke="none" />
+        <circle cx="2.5" cy="2.5" r="2" fill="none" />
+      </g>
+      <path d="M7.368,10h4.211L9.473,12ZM2,10A2,2,0,0,1,0,8V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V8a2,2,0,0,1-2,2Z" transform="translate(524 574)" fill="#2b75cc" />
+      <rect width="13" height="3" rx="1" transform="translate(527 577)" fill="#fff" opacity="0.308" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 119, 296.83)" filter="url(#h)">
+      <g transform="translate(111 260.17)" stroke="#fff" stroke-width="3" fill="url(#b)">
+        <ellipse cx="41.5" cy="41" rx="41.5" ry="41" stroke="none" />
+        <ellipse cx="41.5" cy="41" rx="40" ry="39.5" fill="none" />
+      </g>
+    </g>
+    <g className="slide1_info1" transform="translate(1 -2)">
+      <g transform="matrix(1, 0, 0, 1, 118, 298.83)" filter="url(#j)">
+        <rect width="200" height="88" rx="16" transform="translate(394 168.17)" fill="#100f1c" />
+      </g>
+      <text transform="translate(527 507)" fill="#fff" font-size="30" font-family="Roboto-Regular, Roboto">
+        <tspan x="0" y="0">230K</tspan>
+      </text>
+      <text transform="translate(527 535)" fill="#fff" font-size="11" font-family="Roboto-Light, Roboto" font-weight="300">
+        <tspan x="0" y="0">TOTAL ASSETS</tspan>
+      </text>
+      <rect width="60" height="41" rx="10" transform="translate(638 481)" fill="#ae7ffa" />
+      <g transform="translate(640.667 482.031)" clip-path="url(#l)">
+        <g transform="translate(8.275)">
+          <g transform="translate(0)">
+            <rect width="37" height="37" transform="translate(0.058 -0.031)" fill="none" />
+            <rect width="37" height="37" transform="translate(0.058 -0.031)" fill="none" />
+          </g>
+          <g transform="translate(3.207 4.655)">
+            <path d="M35.271,24.068l-2.219-6.377a1.556,1.556,0,0,0-1.505-1.024H20.391a1.576,1.576,0,0,0-1.521,1.024l-2.2,6.377V32.2a1.552,1.552,0,0,0,3.1-.016V30.631H32.183v1.552a1.552,1.552,0,0,0,3.1.016ZM19.165,21.849l1.071-3.1a.722.722,0,0,1,.714-.528H31a.784.784,0,0,1,.729.528l1.071,3.1a.776.776,0,0,1-.729,1.024H19.894A.776.776,0,0,1,19.165,21.849Zm.59,5.679a1.552,1.552,0,1,1,1.552-1.552A1.556,1.556,0,0,1,19.754,27.528Zm12.413,0a1.552,1.552,0,1,1,1.552-1.552A1.556,1.556,0,0,1,32.168,27.528Z" transform="translate(-4.254 -5.805)" fill="#fff" />
+            <path d="M21.953,7.327V14.31H23.5V6.552A1.556,1.556,0,0,0,21.953,5h-9.31a1.556,1.556,0,0,0-1.552,1.552v6.207H4.885A1.556,1.556,0,0,0,3.333,14.31v18.62H4.885V15.086a.768.768,0,0,1,.776-.776h6.207a.768.768,0,0,0,.776-.776V7.327a.768.768,0,0,1,.776-.776h7.758A.768.768,0,0,1,21.953,7.327Z" transform="translate(-3.333 -5)" fill="#fff" />
+            <rect width="3.103" height="3.103" transform="translate(4.655 12.413)" fill="#fff" />
+            <rect width="3.103" height="3.103" transform="translate(12.413 3.103)" fill="#fff" />
+            <rect width="3.103" height="3.103" transform="translate(4.655 18.62)" fill="#fff" />
+            <rect width="3.103" height="3.103" transform="translate(4.655 24.826)" fill="#fff" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
